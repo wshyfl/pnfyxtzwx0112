@@ -1,0 +1,55 @@
+
+歹徒.png
+size: 1746,1786
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 901
+  size: 736, 883
+  orig: 736, 883
+  offset: 0, 0
+  index: -1
+shou
+  rotate: 180
+  xy: 1207, 306
+  size: 536, 593
+  orig: 536, 593
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 1202, 2
+  size: 392, 339
+  orig: 392, 339
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 740, 2
+  size: 460, 897
+  orig: 460, 897
+  offset: 0, 0
+  index: -1
+xian1
+  rotate: false
+  xy: 2, 16
+  size: 736, 883
+  orig: 736, 883
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: false
+  xy: 740, 901
+  size: 736, 883
+  orig: 736, 883
+  offset: 0, 0
+  index: -1
+图层 1
+  rotate: false
+  xy: 2, 14
+  size: 1, 1
+  orig: 8, 8
+  offset: 0, 7
+  index: -1

@@ -1,0 +1,97 @@
+
+拍拿放大师.png
+size: 2041,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 1644, 274
+  size: 247, 250
+  orig: 256, 256
+  offset: 9, 5
+  index: -1
+头
+  rotate: true
+  xy: 1389, 2
+  size: 178, 233
+  orig: 180, 236
+  offset: 1, 2
+  index: -1
+头发
+  rotate: false
+  xy: 728, 112
+  size: 312, 412
+  orig: 314, 414
+  offset: 1, 1
+  index: -1
+手_待机
+  rotate: false
+  xy: 1644, 107
+  size: 334, 165
+  orig: 334, 165
+  offset: 0, 0
+  index: -1
+手_拍
+  rotate: true
+  xy: 1372, 182
+  size: 342, 270
+  orig: 342, 270
+  offset: 0, 0
+  index: -1
+手_拿
+  rotate: false
+  xy: 2, 7
+  size: 346, 106
+  orig: 346, 106
+  offset: 0, 0
+  index: -1
+手_桌
+  rotate: false
+  xy: 1042, 34
+  size: 345, 142
+  orig: 345, 142
+  offset: 0, 0
+  index: -1
+桌子
+  rotate: false
+  xy: 2, 115
+  size: 724, 409
+  orig: 726, 411
+  offset: 1, 1
+  index: -1
+榴莲
+  rotate: true
+  xy: 1893, 326
+  size: 198, 146
+  orig: 200, 148
+  offset: 1, 1
+  index: -1
+榴莲_影子
+  rotate: false
+  xy: 350, 64
+  size: 196, 49
+  orig: 198, 51
+  offset: 1, 1
+  index: -1
+表情1
+  rotate: false
+  xy: 548, 31
+  size: 112, 82
+  orig: 114, 84
+  offset: 1, 1
+  index: -1
+表情2
+  rotate: false
+  xy: 662, 30
+  size: 114, 80
+  orig: 117, 82
+  offset: 1, 1
+  index: -1
+身体
+  rotate: true
+  xy: 1042, 178
+  size: 346, 328
+  orig: 346, 328
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+都市怪谈.png
+size: 244,744
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nv_2_zheng
+  rotate: true
+  xy: 2, 2
+  size: 86, 130
+  orig: 86, 130
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 2, 90
+  size: 168, 202
+  orig: 173, 204
+  offset: 3, 2
+  index: -1
+图层 3
+  rotate: false
+  xy: 2, 502
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+图层 5
+  rotate: false
+  xy: 2, 260
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1

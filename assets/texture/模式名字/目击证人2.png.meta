@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "253aeca7-a34e-44bb-a445-2985ea9aa6ba",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 158,
+  "height": 37,
+  "platformSettings": {},
+  "subMetas": {
+    "目击证人2": {
+      "ver": "1.0.4",
+      "uuid": "53a7134d-312d-4d90-a220-262ec8bda4c2",
+      "rawTextureUuid": "253aeca7-a34e-44bb-a445-2985ea9aa6ba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 158,
+      "height": 37,
+      "rawWidth": 158,
+      "rawHeight": 37,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

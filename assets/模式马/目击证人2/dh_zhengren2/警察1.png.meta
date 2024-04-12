@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "147a97b6-3056-468c-b800-1a8c83e36647",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 411,
+  "height": 1206,
+  "platformSettings": {},
+  "subMetas": {
+    "警察1": {
+      "ver": "1.0.4",
+      "uuid": "a0c976a5-a382-4aef-a230-e696930c364b",
+      "rawTextureUuid": "147a97b6-3056-468c-b800-1a8c83e36647",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 407,
+      "height": 1202,
+      "rawWidth": 411,
+      "rawHeight": 1206,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

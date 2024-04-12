@@ -1,0 +1,48 @@
+
+都市怪谈-超市.png
+size: 193,1273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BeiJing2
+  rotate: false
+  xy: 2, 553
+  size: 112, 718
+  orig: 112, 718
+  offset: 0, 0
+  index: -1
+BeiJing2_1
+  rotate: false
+  xy: 116, 553
+  size: 75, 718
+  orig: 75, 718
+  offset: 0, 0
+  index: -1
+guai
+  rotate: false
+  xy: 2, 230
+  size: 169, 321
+  orig: 256, 592
+  offset: 87, 222
+  index: -1
+guai_2
+  rotate: false
+  xy: 2, 2
+  size: 113, 226
+  orig: 148, 268
+  offset: 10, 42
+  index: -1
+guai_3
+  rotate: false
+  xy: 117, 121
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+图层 12
+  rotate: false
+  xy: 117, 143
+  size: 33, 85
+  orig: 33, 85
+  offset: 0, 0
+  index: -1

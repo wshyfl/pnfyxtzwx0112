@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7cc16e37-92e5-415a-bfa5-c27a174ca43d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 423,
+  "height": 43,
+  "platformSettings": {},
+  "subMetas": {
+    "人生难免经历苦痛挣扎": {
+      "ver": "1.0.4",
+      "uuid": "0cf68bda-e42c-49b9-8682-7e9002549d4b",
+      "rawTextureUuid": "7cc16e37-92e5-415a-bfa5-c27a174ca43d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 423,
+      "height": 43,
+      "rawWidth": 423,
+      "rawHeight": 43,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

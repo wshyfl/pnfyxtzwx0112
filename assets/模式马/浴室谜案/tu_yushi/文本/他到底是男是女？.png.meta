@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "69957ae9-614d-417f-93dd-873f3c5e5bd1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 238,
+  "height": 36,
+  "platformSettings": {},
+  "subMetas": {
+    "他到底是男是女？": {
+      "ver": "1.0.4",
+      "uuid": "c7dc9a6c-01d7-49d2-a5c3-93bb8d60e72e",
+      "rawTextureUuid": "69957ae9-614d-417f-93dd-873f3c5e5bd1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 238,
+      "height": 36,
+      "rawWidth": 238,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

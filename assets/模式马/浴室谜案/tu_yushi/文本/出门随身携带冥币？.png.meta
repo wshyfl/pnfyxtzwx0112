@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "44a3347e-44a5-4918-a3c0-03048d381cdf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 263,
+  "height": 38,
+  "platformSettings": {},
+  "subMetas": {
+    "出门随身携带冥币？": {
+      "ver": "1.0.4",
+      "uuid": "15a2c0a2-695d-427b-9a95-56c2800437ed",
+      "rawTextureUuid": "44a3347e-44a5-4918-a3c0-03048d381cdf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 263,
+      "height": 38,
+      "rawWidth": 263,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

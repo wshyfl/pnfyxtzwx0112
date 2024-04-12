@@ -1,0 +1,41 @@
+
+熊.png
+size: 724,1468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 46
+  rotate: true
+  xy: 2, 2
+  size: 42, 43
+  orig: 43, 43
+  offset: 1, 0
+  index: -1
+图层 46 拷贝
+  rotate: true
+  xy: 2, 2
+  size: 42, 43
+  orig: 43, 43
+  offset: 1, 0
+  index: -1
+图层 48
+  rotate: false
+  xy: 2, 755
+  size: 720, 711
+  orig: 720, 711
+  offset: 0, 0
+  index: -1
+图层 48 拷贝
+  rotate: false
+  xy: 2, 46
+  size: 720, 707
+  orig: 720, 707
+  offset: 0, 0
+  index: -1
+图层 49
+  rotate: false
+  xy: 47, 21
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2600c126-13ff-4ca3-a9e5-7c01453db176",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 291,
+  "height": 42,
+  "platformSettings": {},
+  "subMetas": {
+    "手上怎么还带着胶带？": {
+      "ver": "1.0.4",
+      "uuid": "32afd45f-bbac-4d03-aa25-08188eb01556",
+      "rawTextureUuid": "2600c126-13ff-4ca3-a9e5-7c01453db176",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 291,
+      "height": 42,
+      "rawWidth": 291,
+      "rawHeight": 42,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

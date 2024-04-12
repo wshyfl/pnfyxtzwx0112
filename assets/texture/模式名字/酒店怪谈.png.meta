@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7b4ff5fa-0be5-42f5-a24b-93a2acbff611",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 142,
+  "height": 37,
+  "platformSettings": {},
+  "subMetas": {
+    "酒店怪谈": {
+      "ver": "1.0.4",
+      "uuid": "4c4ddfc7-b24c-496b-afa9-19f17a64ec4d",
+      "rawTextureUuid": "7b4ff5fa-0be5-42f5-a24b-93a2acbff611",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 142,
+      "height": 37,
+      "rawWidth": 142,
+      "rawHeight": 37,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

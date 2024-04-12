@@ -1,0 +1,41 @@
+
+家中惨案.png
+size: 617,294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+被发现
+  rotate: false
+  xy: 245, 3
+  size: 240, 290
+  orig: 240, 290
+  offset: 0, 0
+  index: -1
+被发现_手
+  rotate: true
+  xy: 487, 107
+  size: 186, 123
+  orig: 186, 123
+  offset: 0, 0
+  index: -1
+被发现_眼睛_1
+  rotate: false
+  xy: 487, 50
+  size: 125, 55
+  orig: 125, 55
+  offset: 0, 0
+  index: -1
+被发现_眼睛_2
+  rotate: false
+  xy: 487, 14
+  size: 127, 34
+  orig: 127, 34
+  offset: 0, 0
+  index: -1
+被发现_背景
+  rotate: false
+  xy: 2, 3
+  size: 242, 290
+  orig: 242, 290
+  offset: 0, 0
+  index: -1

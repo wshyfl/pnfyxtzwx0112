@@ -1,0 +1,27 @@
+
+窗帘.png
+size: 1783,868
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+窗帘_1
+  rotate: false
+  xy: 2, 2
+  size: 720, 864
+  orig: 720, 864
+  offset: 0, 0
+  index: -1
+窗帘_2
+  rotate: false
+  xy: 724, 2
+  size: 720, 864
+  orig: 720, 864
+  offset: 0, 0
+  index: -1
+窗帘_手
+  rotate: true
+  xy: 1446, 224
+  size: 642, 335
+  orig: 642, 335
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+倒计时.png
+size: 720,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1(2)
+  rotate: true
+  xy: 561, 56
+  size: 86, 157
+  orig: 86, 157
+  offset: 0, 0
+  index: -1
+2(1)
+  rotate: true
+  xy: 239, 25
+  size: 117, 160
+  orig: 117, 160
+  offset: 0, 0
+  index: -1
+3(1)
+  rotate: true
+  xy: 401, 25
+  size: 117, 158
+  orig: 117, 158
+  offset: 0, 0
+  index: -1
+kaishi
+  rotate: false
+  xy: 2, 2
+  size: 235, 140
+  orig: 235, 140
+  offset: 0, 0
+  index: -1

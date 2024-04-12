@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "52944af1-caa0-4aec-adaa-66e35f39c2c8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 244,
+  "height": 528,
+  "platformSettings": {},
+  "subMetas": {
+    "恐怖卫生间": {
+      "ver": "1.0.4",
+      "uuid": "1e2a4279-9986-4620-a7f1-47831652b4b8",
+      "rawTextureUuid": "52944af1-caa0-4aec-adaa-66e35f39c2c8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 240,
+      "height": 523,
+      "rawWidth": 244,
+      "rawHeight": 528,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

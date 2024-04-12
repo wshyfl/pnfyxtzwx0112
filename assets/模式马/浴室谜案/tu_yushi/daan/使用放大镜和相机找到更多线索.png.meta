@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "98cc9885-1ff3-440b-a465-ad72b8ff352d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 477,
+  "height": 38,
+  "platformSettings": {},
+  "subMetas": {
+    "使用放大镜和相机找到更多线索": {
+      "ver": "1.0.4",
+      "uuid": "d71191c6-d491-47da-a2d1-3c66ee286e6b",
+      "rawTextureUuid": "98cc9885-1ff3-440b-a465-ad72b8ff352d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 477,
+      "height": 38,
+      "rawWidth": 477,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

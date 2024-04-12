@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c35fa46e-a359-4b37-93a9-5b99577e10ee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 244,
+  "height": 356,
+  "platformSettings": {},
+  "subMetas": {
+    "买个豪宅": {
+      "ver": "1.0.4",
+      "uuid": "9ef12c7f-434a-4213-8625-290612b8731e",
+      "rawTextureUuid": "c35fa46e-a359-4b37-93a9-5b99577e10ee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 240,
+      "height": 352,
+      "rawWidth": 244,
+      "rawHeight": 356,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "580fcc0b-e14a-4901-94d7-bb2860b626e6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 152,
+  "height": 32,
+  "platformSettings": {},
+  "subMetas": {
+    "和妻子对话": {
+      "ver": "1.0.4",
+      "uuid": "395f6ed4-df5d-4afd-b4a2-72e51e0f9989",
+      "rawTextureUuid": "580fcc0b-e14a-4901-94d7-bb2860b626e6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 152,
+      "height": 32,
+      "rawWidth": 152,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

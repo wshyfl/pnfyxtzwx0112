@@ -1,0 +1,20 @@
+
+腿.png
+size: 440,1641
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+窗帘_4
+  rotate: false
+  xy: 2, 756
+  size: 436, 883
+  orig: 436, 883
+  offset: 0, 0
+  index: -1
+腿
+  rotate: false
+  xy: 2, 2
+  size: 402, 752
+  orig: 402, 752
+  offset: 0, 0
+  index: -1

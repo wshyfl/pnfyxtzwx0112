@@ -1,0 +1,18 @@
+{
+  "package": "com.qzgame.gzjj.nearme.gamecenter",
+  "name": "规则禁忌",
+  "icon": "G:\\creatorProject\\jinJiDeWenZi\\guiZeJinJi\\icon.png",
+  "versionName": "1.0.0",
+  "versionCode": "1",
+  "minPlatformVersion": "1075",
+  "deviceOrientation": "portrait",
+  "logLevel": "log",
+  "tinyPackageServer": "",
+  "useDebugKey": false,
+  "privatePath": "G:\\creatorProject\\aakeys\\private.pem",
+  "certificatePath": "G:\\creatorProject\\aakeys\\certificate.pem",
+  "disabledMode": "",
+  "npmPath": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

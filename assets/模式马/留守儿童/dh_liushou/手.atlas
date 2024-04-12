@@ -1,0 +1,13 @@
+
+手.png
+size: 128,97
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn11
+  rotate: false
+  xy: 2, 3
+  size: 123, 92
+  orig: 123, 92
+  offset: 0, 0
+  index: -1

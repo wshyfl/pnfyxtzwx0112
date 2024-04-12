@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4b8421d1-6e88-4234-9229-f9397db25742",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 140,
+  "height": 37,
+  "platformSettings": {},
+  "subMetas": {
+    "留守儿童": {
+      "ver": "1.0.4",
+      "uuid": "7439fa82-22ac-42ad-b118-0d5e5b8e01d2",
+      "rawTextureUuid": "4b8421d1-6e88-4234-9229-f9397db25742",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 140,
+      "height": 37,
+      "rawWidth": 140,
+      "rawHeight": 37,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

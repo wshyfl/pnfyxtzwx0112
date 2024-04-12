@@ -1,0 +1,48 @@
+
+目击证人2.png
+size: 376,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 57
+  size: 236, 307
+  orig: 236, 307
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 148, 31
+  size: 66, 24
+  orig: 66, 24
+  offset: 0, 0
+  index: -1
+对话气泡
+  rotate: false
+  xy: 2, 18
+  size: 88, 37
+  orig: 88, 37
+  offset: 0, 0
+  index: -1
+警察a1
+  rotate: false
+  xy: 240, 22
+  size: 111, 42
+  orig: 111, 42
+  offset: 0, 0
+  index: -1
+警察a2
+  rotate: false
+  xy: 92, 3
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+警察a3
+  rotate: false
+  xy: 240, 66
+  size: 134, 298
+  orig: 134, 298
+  offset: 0, 0
+  index: -1

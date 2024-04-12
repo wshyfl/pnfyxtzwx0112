@@ -1,0 +1,41 @@
+
+nan.png
+size: 149,515
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nan_shou1
+  rotate: true
+  xy: 2, 68
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+nan_shou2
+  rotate: true
+  xy: 77, 66
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+nan_st
+  rotate: false
+  xy: 2, 142
+  size: 145, 371
+  orig: 145, 371
+  offset: 0, 0
+  index: -1
+nan_tou
+  rotate: true
+  xy: 2, 2
+  size: 62, 77
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+图层 1
+  rotate: false
+  xy: 81, 48
+  size: 9, 16
+  orig: 10, 16
+  offset: 1, 0
+  index: -1

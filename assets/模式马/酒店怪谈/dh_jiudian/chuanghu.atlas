@@ -1,0 +1,20 @@
+
+chuanghu.png
+size: 260,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cj01-chuizi
+  rotate: false
+  xy: 2, 2
+  size: 90, 82
+  orig: 90, 82
+  offset: 0, 0
+  index: -1
+huoxing
+  rotate: false
+  xy: 2, 86
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a11bedbd-7f50-4872-b602-c914aa18d472",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 236,
+  "height": 39,
+  "platformSettings": {},
+  "subMetas": {
+    "室内怎么还有乌鸦": {
+      "ver": "1.0.4",
+      "uuid": "150bf40b-0cef-4f16-9379-c0098bae5a8b",
+      "rawTextureUuid": "a11bedbd-7f50-4872-b602-c914aa18d472",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 39,
+      "rawWidth": 236,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

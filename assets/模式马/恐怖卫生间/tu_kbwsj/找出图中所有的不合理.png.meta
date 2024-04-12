@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f986d59e-20e2-4d49-a5e5-61620b7c1061",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 302,
+  "height": 33,
+  "platformSettings": {},
+  "subMetas": {
+    "找出图中所有的不合理": {
+      "ver": "1.0.4",
+      "uuid": "0288cafa-3689-4ef8-b773-7d611128ea9b",
+      "rawTextureUuid": "f986d59e-20e2-4d49-a5e5-61620b7c1061",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 302,
+      "height": 33,
+      "rawWidth": 302,
+      "rawHeight": 33,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,48 @@
+
+找出青蛙.png
+size: 411,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+手1
+  rotate: true
+  xy: 384, 57
+  size: 45, 25
+  orig: 48, 31
+  offset: 3, 0
+  index: -1
+手2
+  rotate: true
+  xy: 336, 5
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+组 17
+  rotate: false
+  xy: 2, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+组 3
+  rotate: false
+  xy: 336, 42
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+组 4
+  rotate: true
+  xy: 336, 104
+  size: 138, 72
+  orig: 138, 72
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 244, 12
+  size: 90, 230
+  orig: 90, 230
+  offset: 0, 0
+  index: -1

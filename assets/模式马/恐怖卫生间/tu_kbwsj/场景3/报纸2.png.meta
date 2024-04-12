@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b80fd56c-4cf5-4cbc-9820-1d69de59c691",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 499,
+  "height": 611,
+  "platformSettings": {},
+  "subMetas": {
+    "报纸2": {
+      "ver": "1.0.4",
+      "uuid": "27472cc0-0a03-49c1-9c04-b1019fd7bd5b",
+      "rawTextureUuid": "b80fd56c-4cf5-4cbc-9820-1d69de59c691",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 499,
+      "height": 609,
+      "rawWidth": 499,
+      "rawHeight": 611,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

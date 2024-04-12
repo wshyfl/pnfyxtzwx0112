@@ -1,0 +1,34 @@
+
+酒店怪谈.png
+size: 310,692
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 2, 118
+  size: 246, 263
+  orig: 246, 263
+  offset: 0, 0
+  index: -1
+chuang
+  rotate: false
+  xy: 2, 366
+  size: 295, 324
+  orig: 295, 324
+  offset: 0, 0
+  index: -1
+ren1
+  rotate: false
+  xy: 2, 3
+  size: 306, 114
+  orig: 306, 114
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 185, 14
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1

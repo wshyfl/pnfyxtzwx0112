@@ -1,0 +1,132 @@
+
+拍拿放大师.png
+size: 395,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 233
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 140, 186
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+fang-s
+  rotate: false
+  xy: 194, 191
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 140, 71
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+na-s
+  rotate: false
+  xy: 2, 7
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+pai-s
+  rotate: false
+  xy: 47, 7
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+头
+  rotate: true
+  xy: 2, 49
+  size: 72, 94
+  orig: 72, 94
+  offset: 0, 0
+  index: -1
+头发
+  rotate: false
+  xy: 244, 308
+  size: 126, 166
+  orig: 126, 166
+  offset: 0, 0
+  index: -1
+手_待机
+  rotate: false
+  xy: 245, 107
+  size: 134, 66
+  orig: 134, 66
+  offset: 0, 0
+  index: -1
+手_拍
+  rotate: false
+  xy: 2, 123
+  size: 137, 108
+  orig: 137, 108
+  offset: 0, 0
+  index: -1
+手_拿
+  rotate: false
+  xy: 180, 4
+  size: 138, 42
+  orig: 138, 42
+  offset: 0, 0
+  index: -1
+手_桌
+  rotate: false
+  xy: 245, 48
+  size: 138, 57
+  orig: 138, 57
+  offset: 0, 0
+  index: -1
+桌子
+  rotate: false
+  xy: 244, 300
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+榴莲
+  rotate: false
+  xy: 98, 9
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+榴莲_影子
+  rotate: true
+  xy: 371, 294
+  size: 79, 21
+  orig: 79, 21
+  offset: 0, 0
+  index: -1
+表情1
+  rotate: true
+  xy: 98, 76
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+表情2
+  rotate: false
+  xy: 320, 14
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 244, 175
+  size: 138, 131
+  orig: 138, 131
+  offset: 0, 0
+  index: -1

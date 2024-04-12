@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b62b3d1f-4926-48fc-9872-b0edc33dc947",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 356,
+  "height": 36,
+  "platformSettings": {},
+  "subMetas": {
+    "为什么外面变得这么破旧了": {
+      "ver": "1.0.4",
+      "uuid": "b3d315db-048d-4dbd-beb2-daa3c56d9c12",
+      "rawTextureUuid": "b62b3d1f-4926-48fc-9872-b0edc33dc947",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 356,
+      "height": 36,
+      "rawWidth": 356,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

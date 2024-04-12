@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9292242a-accc-4dd9-9934-0261faac06ec",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 448,
+  "height": 38,
+  "platformSettings": {},
+  "subMetas": {
+    "门口上还有封条，是发生什么了吗": {
+      "ver": "1.0.4",
+      "uuid": "214ec9b7-2cbf-44d4-ad64-db69bf793c98",
+      "rawTextureUuid": "9292242a-accc-4dd9-9934-0261faac06ec",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 448,
+      "height": 38,
+      "rawWidth": 448,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

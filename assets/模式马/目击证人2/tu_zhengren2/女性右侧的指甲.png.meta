@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "629ab50e-be0c-4227-9bea-ea9727cb24d4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 206,
+  "height": 29,
+  "platformSettings": {},
+  "subMetas": {
+    "女性右侧的指甲": {
+      "ver": "1.0.4",
+      "uuid": "ccf94803-91c5-40cc-a06e-b85ad6244be5",
+      "rawTextureUuid": "629ab50e-be0c-4227-9bea-ea9727cb24d4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 206,
+      "height": 29,
+      "rawWidth": 206,
+      "rawHeight": 29,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

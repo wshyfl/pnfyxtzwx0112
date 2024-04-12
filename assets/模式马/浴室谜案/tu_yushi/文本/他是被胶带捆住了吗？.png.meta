@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2a4bd01f-8dcf-42dd-84ab-230ff4fc0745",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 312,
+  "height": 37,
+  "platformSettings": {},
+  "subMetas": {
+    "他是被胶带捆住了吗？": {
+      "ver": "1.0.4",
+      "uuid": "a65dd313-a02d-4eeb-b71c-5e8b4c8870de",
+      "rawTextureUuid": "2a4bd01f-8dcf-42dd-84ab-230ff4fc0745",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 312,
+      "height": 37,
+      "rawWidth": 312,
+      "rawHeight": 37,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,83 @@
+
+ltt.png
+size: 140,561
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ltt_图层 61
+  rotate: true
+  xy: 109, 63
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+ltt_图层 65
+  rotate: false
+  xy: 63, 2
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+ltt_形状 42 拷贝
+  rotate: true
+  xy: 2, 168
+  size: 102, 114
+  orig: 102, 114
+  offset: 0, 0
+  index: -1
+ltt_组 22 拷贝
+  rotate: false
+  xy: 2, 2
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+ltt_组 25
+  rotate: true
+  xy: 2, 63
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+ltt_组 27
+  rotate: false
+  xy: 2, 272
+  size: 136, 287
+  orig: 136, 287
+  offset: 0, 0
+  index: -1
+shui1
+  rotate: false
+  xy: 118, 26
+  size: 19, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+shui2
+  rotate: false
+  xy: 119, 103
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+shui3
+  rotate: false
+  xy: 118, 12
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+shui4
+  rotate: false
+  xy: 131, 10
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+shui5
+  rotate: false
+  xy: 109, 103
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1

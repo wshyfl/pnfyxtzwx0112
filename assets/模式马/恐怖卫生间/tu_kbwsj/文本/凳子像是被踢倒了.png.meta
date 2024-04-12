@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a67ee685-c9e6-4b19-a63d-6c395f3e1b5b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 251,
+  "height": 37,
+  "platformSettings": {},
+  "subMetas": {
+    "凳子像是被踢倒了": {
+      "ver": "1.0.4",
+      "uuid": "18ec3ac0-8af1-4d75-bfea-59ff31bfd5b7",
+      "rawTextureUuid": "a67ee685-c9e6-4b19-a63d-6c395f3e1b5b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 251,
+      "height": 37,
+      "rawWidth": 251,
+      "rawHeight": 37,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,48 @@
+
+警察2.png
+size: 409,1331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+警察b1
+  rotate: false
+  xy: 2, 2
+  size: 165, 160
+  orig: 165, 160
+  offset: 0, 0
+  index: -1
+警察b2
+  rotate: true
+  xy: 2, 354
+  size: 221, 294
+  orig: 221, 294
+  offset: 0, 0
+  index: -1
+警察b3
+  rotate: false
+  xy: 169, 123
+  size: 53, 12
+  orig: 53, 12
+  offset: 0, 0
+  index: -1
+警察b4
+  rotate: true
+  xy: 2, 164
+  size: 188, 215
+  orig: 188, 215
+  offset: 0, 0
+  index: -1
+警察b5
+  rotate: false
+  xy: 219, 137
+  size: 188, 215
+  orig: 188, 215
+  offset: 0, 0
+  index: -1
+警察b6
+  rotate: false
+  xy: 2, 577
+  size: 402, 752
+  orig: 402, 753
+  offset: 0, 0
+  index: -1

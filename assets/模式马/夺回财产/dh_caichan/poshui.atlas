@@ -1,0 +1,48 @@
+
+poshui.png
+size: 42,103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shui1
+  rotate: true
+  xy: 2, 23
+  size: 19, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+shui2
+  rotate: false
+  xy: 16, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+shui3
+  rotate: true
+  xy: 2, 10
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+shui4
+  rotate: false
+  xy: 33, 7
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+shui5
+  rotate: true
+  xy: 16, 13
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+shuibei
+  rotate: false
+  xy: 2, 44
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1

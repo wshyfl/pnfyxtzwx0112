@@ -1,0 +1,55 @@
+
+guanjia.png
+size: 833,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cj03-gaizi
+  rotate: false
+  xy: 2, 107
+  size: 297, 199
+  orig: 297, 199
+  offset: 0, 0
+  index: -1
+cj03-shiwu
+  rotate: false
+  xy: 2, 14
+  size: 253, 91
+  orig: 253, 91
+  offset: 0, 0
+  index: -1
+cj05-beizi
+  rotate: false
+  xy: 738, 343
+  size: 55, 153
+  orig: 55, 153
+  offset: 0, 0
+  index: -1
+cj05-hongjiu
+  rotate: false
+  xy: 301, 43
+  size: 65, 255
+  orig: 65, 255
+  offset: 0, 0
+  index: -1
+shui
+  rotate: false
+  xy: 368, 144
+  size: 51, 119
+  orig: 51, 119
+  offset: 0, 0
+  index: -1
+zangji
+  rotate: 270
+  xy: 603, 12
+  size: 330, 228
+  orig: 715, 776
+  offset: 364, 372
+  index: -1
+管家
+  rotate: false
+  xy: 2, 2
+  size: 715, 776
+  orig: 715, 776
+  offset: 0, 0
+  index: -1

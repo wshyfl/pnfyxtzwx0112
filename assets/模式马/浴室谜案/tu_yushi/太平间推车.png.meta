@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6f6a22ea-8345-486a-bd6c-c9fa82680741",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 663,
+  "height": 139,
+  "platformSettings": {},
+  "subMetas": {
+    "太平间推车": {
+      "ver": "1.0.4",
+      "uuid": "83c66772-fc78-4975-ad13-785d9e7f7f3a",
+      "rawTextureUuid": "6f6a22ea-8345-486a-bd6c-c9fa82680741",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 663,
+      "height": 139,
+      "rawWidth": 663,
+      "rawHeight": 139,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

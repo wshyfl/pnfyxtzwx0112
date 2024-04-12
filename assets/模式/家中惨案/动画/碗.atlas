@@ -1,0 +1,27 @@
+
+碗.png
+size: 740,1107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+橱窗
+  rotate: false
+  xy: 2, 222
+  size: 736, 883
+  orig: 736, 883
+  offset: 0, 0
+  index: -1
+碗
+  rotate: false
+  xy: 334, 23
+  size: 330, 197
+  orig: 330, 198
+  offset: 0, 0
+  index: -1
+碗2
+  rotate: false
+  xy: 2, 2
+  size: 330, 218
+  orig: 330, 218
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+zhu.png
+size: 289,1244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cj04-renwu
+  rotate: false
+  xy: 2, 3
+  size: 202, 438
+  orig: 202, 438
+  offset: 0, 0
+  index: -1
+cj04-zhu
+  rotate: false
+  xy: 2, 442
+  size: 285, 361
+  orig: 285, 361
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 172, 12
+  size: 92, 109
+  orig: 92, 109
+  offset: 0, 0
+  index: -1
+ying
+  rotate: false
+  xy: 2, 805
+  size: 278, 437
+  orig: 280, 438
+  offset: 1, 0
+  index: -1

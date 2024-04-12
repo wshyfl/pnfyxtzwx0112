@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f53c2422-bb84-4149-98c9-f6f20f5b26eb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 241,
+  "height": 279,
+  "platformSettings": {},
+  "subMetas": {
+    "床_被子2": {
+      "ver": "1.0.4",
+      "uuid": "d77f4597-68e9-47c8-82fb-1d40e0998207",
+      "rawTextureUuid": "f53c2422-bb84-4149-98c9-f6f20f5b26eb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 241,
+      "height": 279,
+      "rawWidth": 241,
+      "rawHeight": 279,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

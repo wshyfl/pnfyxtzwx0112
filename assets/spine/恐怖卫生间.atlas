@@ -1,0 +1,34 @@
+
+恐怖卫生间.png
+size: 244,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 2
+  rotate: false
+  xy: 2, 286
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+图层 3
+  rotate: false
+  xy: 2, 36
+  size: 196, 30
+  orig: 196, 30
+  offset: 0, 0
+  index: -1
+宿管阿姨
+  rotate: false
+  xy: 2, 68
+  size: 240, 216
+  orig: 240, 216
+  offset: 0, 0
+  index: -1
+宿管阿姨我上个厕所就回
+  rotate: false
+  xy: 2, 3
+  size: 106, 31
+  orig: 106, 31
+  offset: 0, 0
+  index: -1

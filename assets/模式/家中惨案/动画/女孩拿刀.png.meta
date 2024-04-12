@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d2bb44b8-b975-4739-ac2a-29384993c9fb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1826,
+  "height": 1772,
+  "platformSettings": {},
+  "subMetas": {
+    "女孩拿刀": {
+      "ver": "1.0.4",
+      "uuid": "7c8ba6e4-2b74-4b61-aaf2-885b7d8fdec8",
+      "rawTextureUuid": "d2bb44b8-b975-4739-ac2a-29384993c9fb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1821,
+      "height": 1768,
+      "rawWidth": 1826,
+      "rawHeight": 1772,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

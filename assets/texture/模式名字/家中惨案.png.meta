@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d069f8ab-ae6b-439f-bdb2-3013fcdd91e5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 142,
+  "height": 37,
+  "platformSettings": {},
+  "subMetas": {
+    "家中惨案": {
+      "ver": "1.0.4",
+      "uuid": "09a5ab17-28d2-48ae-a75b-0e6aef9d00f5",
+      "rawTextureUuid": "d069f8ab-ae6b-439f-bdb2-3013fcdd91e5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 142,
+      "height": 37,
+      "rawWidth": 142,
+      "rawHeight": 37,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

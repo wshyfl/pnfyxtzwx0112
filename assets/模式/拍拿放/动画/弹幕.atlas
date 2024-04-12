@@ -1,0 +1,27 @@
+
+弹幕.png
+size: 552,38
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+主播加油！！！！
+  rotate: false
+  xy: 2, 2
+  size: 221, 34
+  orig: 222, 34
+  offset: 1, 0
+  index: -1
+主播好厉害！
+  rotate: false
+  xy: 411, 2
+  size: 139, 34
+  orig: 140, 34
+  offset: 1, 0
+  index: -1
+点赞！点赞！！！
+  rotate: false
+  xy: 225, 2
+  size: 184, 34
+  orig: 185, 34
+  offset: 1, 0
+  index: -1

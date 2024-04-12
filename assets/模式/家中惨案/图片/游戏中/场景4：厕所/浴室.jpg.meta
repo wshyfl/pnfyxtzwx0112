@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "cee45d0f-f9a0-4a67-bd22-735edbf5092e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1122,
+  "height": 883,
+  "platformSettings": {},
+  "subMetas": {
+    "浴室": {
+      "ver": "1.0.4",
+      "uuid": "629e717b-355c-465b-b1f0-e87be6a9f489",
+      "rawTextureUuid": "cee45d0f-f9a0-4a67-bd22-735edbf5092e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1122,
+      "height": 883,
+      "rawWidth": 1122,
+      "rawHeight": 883,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8a9b5610-56ca-43f3-9b6a-864ac379f8e0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 248,
+  "height": 39,
+  "platformSettings": {},
+  "subMetas": {
+    "怎么还有绳子在这": {
+      "ver": "1.0.4",
+      "uuid": "0a7e1368-7bad-4805-9075-cda3553e70cb",
+      "rawTextureUuid": "8a9b5610-56ca-43f3-9b6a-864ac379f8e0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 248,
+      "height": 39,
+      "rawWidth": 248,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

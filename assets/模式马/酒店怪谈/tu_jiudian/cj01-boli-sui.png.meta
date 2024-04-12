@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "65e8442b-2d0a-4221-a2aa-5f09bf11e766",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 196,
+  "height": 189,
+  "platformSettings": {},
+  "subMetas": {
+    "cj01-boli-sui": {
+      "ver": "1.0.4",
+      "uuid": "588c232d-4676-4e98-bbb0-0f4cd73f37a2",
+      "rawTextureUuid": "65e8442b-2d0a-4221-a2aa-5f09bf11e766",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 196,
+      "height": 189,
+      "rawWidth": 196,
+      "rawHeight": 189,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

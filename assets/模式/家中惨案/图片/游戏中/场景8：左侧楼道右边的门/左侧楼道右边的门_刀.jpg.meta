@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "64af4d30-ee08-47bc-8fe7-468115678b6d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 720,
+  "height": 864,
+  "platformSettings": {},
+  "subMetas": {
+    "左侧楼道右边的门_刀": {
+      "ver": "1.0.4",
+      "uuid": "0e833c2f-3076-4f72-a527-634a1ab6e38e",
+      "rawTextureUuid": "64af4d30-ee08-47bc-8fe7-468115678b6d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 720,
+      "height": 864,
+      "rawWidth": 720,
+      "rawHeight": 864,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+
+撬锁.png
+size: 254,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+撬棍
+  rotate: false
+  xy: 2, 2
+  size: 200, 105
+  orig: 206, 109
+  offset: 3, 2
+  index: -1
+锁1
+  rotate: false
+  xy: 204, 48
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+锁2
+  rotate: false
+  xy: 204, 23
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1

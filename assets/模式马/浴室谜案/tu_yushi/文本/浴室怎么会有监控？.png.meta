@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2df90c01-ad14-405c-9e04-50ce4f8d07e2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 270,
+  "height": 39,
+  "platformSettings": {},
+  "subMetas": {
+    "浴室怎么会有监控？": {
+      "ver": "1.0.4",
+      "uuid": "bc834694-7872-4fce-9237-8081b6faa256",
+      "rawTextureUuid": "2df90c01-ad14-405c-9e04-50ce4f8d07e2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 270,
+      "height": 39,
+      "rawWidth": 270,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

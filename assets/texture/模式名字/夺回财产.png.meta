@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9f00b5e6-032e-4093-bf06-5e8ca9ac70e5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 142,
+  "height": 37,
+  "platformSettings": {},
+  "subMetas": {
+    "夺回财产": {
+      "ver": "1.0.4",
+      "uuid": "65c53c16-3ef1-4bf2-8394-e1b0d074e07b",
+      "rawTextureUuid": "9f00b5e6-032e-4093-bf06-5e8ca9ac70e5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 142,
+      "height": 37,
+      "rawWidth": 142,
+      "rawHeight": 37,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

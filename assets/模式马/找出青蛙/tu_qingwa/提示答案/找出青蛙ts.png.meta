@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1e0b8501-2458-4cf2-bd52-e1e1238ad037",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 414,
+  "height": 39,
+  "platformSettings": {},
+  "subMetas": {
+    "找出青蛙ts": {
+      "ver": "1.0.4",
+      "uuid": "b5800654-7d2c-42c8-aa50-a7a3a5f0989c",
+      "rawTextureUuid": "1e0b8501-2458-4cf2-bd52-e1e1238ad037",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 414,
+      "height": 39,
+      "rawWidth": 414,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

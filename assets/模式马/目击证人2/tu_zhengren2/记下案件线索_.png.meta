@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "512894fd-da1d-4a22-8476-ccfb9e3413c0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 182,
+  "height": 33,
+  "platformSettings": {},
+  "subMetas": {
+    "记下案件线索_": {
+      "ver": "1.0.4",
+      "uuid": "8a26e08b-8b95-46c3-b798-0ee354712e9e",
+      "rawTextureUuid": "512894fd-da1d-4a22-8476-ccfb9e3413c0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 182,
+      "height": 33,
+      "rawWidth": 182,
+      "rawHeight": 33,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

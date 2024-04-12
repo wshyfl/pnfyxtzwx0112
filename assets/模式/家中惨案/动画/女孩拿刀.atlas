@@ -1,0 +1,55 @@
+
+女孩拿刀.png
+size: 1826,1772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xian1
+  rotate: false
+  xy: 2, 887
+  size: 736, 883
+  orig: 736, 883
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: false
+  xy: 2, 2
+  size: 736, 883
+  orig: 736, 883
+  offset: 0, 0
+  index: -1
+图层 1
+  rotate: false
+  xy: 740, 692
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+女孩拿刀bg
+  rotate: false
+  xy: 740, 887
+  size: 736, 883
+  orig: 736, 883
+  offset: 0, 0
+  index: -1
+女孩拿刀shou
+  rotate: false
+  xy: 1478, 1478
+  size: 338, 292
+  orig: 338, 292
+  offset: 0, 0
+  index: -1
+女孩拿刀st
+  rotate: false
+  xy: 740, 3
+  size: 649, 882
+  orig: 649, 882
+  offset: 0, 0
+  index: -1
+女孩拿刀tf
+  rotate: false
+  xy: 1391, 515
+  size: 432, 444
+  orig: 432, 444
+  offset: 0, 0
+  index: -1

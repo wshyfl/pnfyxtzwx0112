@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0b7d994a-0811-4c5a-b223-c15aa97c06b6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 397,
+  "height": 304,
+  "platformSettings": {},
+  "subMetas": {
+    "浴室谜案": {
+      "ver": "1.0.4",
+      "uuid": "860628a2-4535-4806-bde9-2d4fa7843b6f",
+      "rawTextureUuid": "0b7d994a-0811-4c5a-b223-c15aa97c06b6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 391,
+      "height": 300,
+      "rawWidth": 397,
+      "rawHeight": 304,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

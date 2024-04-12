@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8408624e-6180-42ed-af7e-7d452cfb6322",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 66,
+  "height": 139,
+  "platformSettings": {},
+  "subMetas": {
+    "DianHua_TeXiao_1": {
+      "ver": "1.0.4",
+      "uuid": "9397fb50-cc53-40aa-91c9-b4ab893ff5b7",
+      "rawTextureUuid": "8408624e-6180-42ed-af7e-7d452cfb6322",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 66,
+      "height": 139,
+      "rawWidth": 66,
+      "rawHeight": 139,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

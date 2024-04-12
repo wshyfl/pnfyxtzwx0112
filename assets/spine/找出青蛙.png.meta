@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6362fad7-b98b-4ad8-a381-46bf901bf87f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 411,
+  "height": 244,
+  "platformSettings": {},
+  "subMetas": {
+    "找出青蛙": {
+      "ver": "1.0.4",
+      "uuid": "e6074a66-f73c-47df-8b2a-edb59b388e7f",
+      "rawTextureUuid": "6362fad7-b98b-4ad8-a381-46bf901bf87f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 406,
+      "height": 240,
+      "rawWidth": 411,
+      "rawHeight": 244,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

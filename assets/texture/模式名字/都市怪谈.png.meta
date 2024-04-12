@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "dfe9f81b-74c3-4196-8b24-b14ac3a8dabf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 142,
+  "height": 37,
+  "platformSettings": {},
+  "subMetas": {
+    "都市怪谈": {
+      "ver": "1.0.4",
+      "uuid": "8ce76ba9-09f3-4879-9c6f-de8445a67e26",
+      "rawTextureUuid": "dfe9f81b-74c3-4196-8b24-b14ac3a8dabf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 142,
+      "height": 37,
+      "rawWidth": 142,
+      "rawHeight": 37,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

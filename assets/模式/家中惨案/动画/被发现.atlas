@@ -1,0 +1,48 @@
+
+被发现.png
+size: 1474,1772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+找到你了
+  rotate: false
+  xy: 2, 887
+  size: 736, 883
+  orig: 736, 883
+  offset: 0, 0
+  index: -1
+被发现
+  rotate: false
+  xy: 740, 887
+  size: 732, 883
+  orig: 732, 883
+  offset: 0, 0
+  index: -1
+被发现_手
+  rotate: false
+  xy: 740, 509
+  size: 566, 376
+  orig: 566, 376
+  offset: 0, 0
+  index: -1
+被发现_眼睛_1
+  rotate: false
+  xy: 740, 338
+  size: 381, 169
+  orig: 381, 169
+  offset: 0, 0
+  index: -1
+被发现_眼睛_2
+  rotate: false
+  xy: 740, 230
+  size: 388, 106
+  orig: 388, 106
+  offset: 0, 0
+  index: -1
+被发现_背景
+  rotate: false
+  xy: 2, 2
+  size: 736, 883
+  orig: 736, 883
+  offset: 0, 0
+  index: -1

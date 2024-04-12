@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "43ab6f35-4282-4975-80f2-42223bf816c9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 67,
+  "height": 42,
+  "platformSettings": {},
+  "subMetas": {
+    "爸爸衣服": {
+      "ver": "1.0.4",
+      "uuid": "4547135a-82e4-45d7-a0bd-4c8f211d4eb0",
+      "rawTextureUuid": "43ab6f35-4282-4975-80f2-42223bf816c9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 66,
+      "height": 41,
+      "rawWidth": 67,
+      "rawHeight": 42,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

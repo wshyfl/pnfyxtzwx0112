@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "053fa3db-2ab7-47b4-a155-ce1a74b089c3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 402,
+  "height": 470,
+  "platformSettings": {},
+  "subMetas": {
+    "超市da_1": {
+      "ver": "1.0.4",
+      "uuid": "db630c64-fc3a-4fd8-ac38-64aa2e048417",
+      "rawTextureUuid": "053fa3db-2ab7-47b4-a155-ce1a74b089c3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 402,
+      "height": 470,
+      "rawWidth": 402,
+      "rawHeight": 470,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

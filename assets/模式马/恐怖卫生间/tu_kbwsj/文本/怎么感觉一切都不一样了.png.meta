@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5705a33c-1f64-4e54-9e10-a1394c49071c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 316,
+  "height": 39,
+  "platformSettings": {},
+  "subMetas": {
+    "怎么感觉一切都不一样了": {
+      "ver": "1.0.4",
+      "uuid": "62b9f755-2520-4b4c-b536-943e0d73f0aa",
+      "rawTextureUuid": "5705a33c-1f64-4e54-9e10-a1394c49071c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 316,
+      "height": 39,
+      "rawWidth": 316,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

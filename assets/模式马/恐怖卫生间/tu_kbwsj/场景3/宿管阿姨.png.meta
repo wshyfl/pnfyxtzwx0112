@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "871d58ad-9efc-4038-88e5-896224fc79bc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 700,
+  "height": 634,
+  "platformSettings": {},
+  "subMetas": {
+    "宿管阿姨": {
+      "ver": "1.0.4",
+      "uuid": "4d364d08-56b9-47e3-9bcf-4a3f4ba56d86",
+      "rawTextureUuid": "871d58ad-9efc-4038-88e5-896224fc79bc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 700,
+      "height": 634,
+      "rawWidth": 700,
+      "rawHeight": 634,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
